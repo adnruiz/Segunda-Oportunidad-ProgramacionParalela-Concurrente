@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidMatrices</string>
+    <string name="btn_multiplicar">Multiplicar</string>
+</resources>
